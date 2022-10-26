@@ -1,0 +1,10 @@
+###
+POST http://localhost:8080/api/add
+Content-Type: application/json
+
+{
+  "product_name": "Macbook",
+  "price": 1499.99,
+  "sale": 20
+}
+###
